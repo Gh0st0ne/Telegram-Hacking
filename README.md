@@ -23,7 +23,7 @@
 
 2.put your api id and token of your bot in config.ini
 
-3.run the install.exe
+3.run the install.py
 
 4.Wait for the installation to complete
 
